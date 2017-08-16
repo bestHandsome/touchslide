@@ -12,6 +12,6 @@ module.exports = {
         ]
       },
      plugins:[
-        new webpack.BannerPlugin('这是我的注释')
+        new webpack.BannerPlugin('我的项目')
        ]
  };
